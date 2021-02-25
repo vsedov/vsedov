@@ -1,18 +1,14 @@
-name: Waka Readme
-
+name: Update gist with WakaTime stats
 on:
-  workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
+    - cron: "0 0 * * *"
 jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - name: Update gist
-        uses: vsedov/waka-box@master
+        uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: b7ae11ae916cc3eb529c054e1afad6e2
