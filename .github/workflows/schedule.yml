@@ -1,2 +1,16 @@
-- name: waka-box
-  uses: matchai/waka-box@v4.0.5
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: arch
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
