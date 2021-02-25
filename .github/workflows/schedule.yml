@@ -7,10 +7,13 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: arch
+  update-gist:
+    runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: b7ae11ae916cc3eb529c054e1afad6e2
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
