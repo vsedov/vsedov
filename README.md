@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@5c151a33-08c1-42ab-aeec-49778769b86b/354a7edf-3a90-4f3e-945b-6b31c946f0c8.png" /></a>
 <!--END_SECTION:waka-->
