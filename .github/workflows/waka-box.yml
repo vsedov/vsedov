@@ -2,12 +2,11 @@ name: Update wakatime stats
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
   schedule:
-    - cron: "5 0 * * *"
-
+    - cron: "30 18 * * *"
 jobs:
   build:
     name: Update-waka-stats
