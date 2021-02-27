@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/vsedov/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
-
 <!-- Powered by https://github.com/vsedov/waka-box-go . -->
 <!-- waka-box end -->
