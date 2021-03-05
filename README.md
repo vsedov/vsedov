@@ -1,7 +1,7 @@
 ### Hello There :snake:
 
 
- ##   - :octocat:  Who am I?
+ ## - :octocat:  Who am I?
  ```python
 
 
@@ -36,11 +36,11 @@ class WhoAmI:
  
  
  
-#### I like Quotes : 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+#### - I like Quotes : 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-## Stuff That I love 
+## - Stuff That I love 
 * Python - Python Enthusiast
 * Machine Learning
 * Deep Learning - Detection Softwares 
@@ -48,7 +48,7 @@ class WhoAmI:
 * Computer Vision
 * The Future 
 
-### Current Stats for the week (High chance its all python >.<)
+### - Current Stats for the week (High chance its all python >.<)
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -64,7 +64,7 @@ Git        🕓 15 mins        ▎░░░░░░░░░░░░░░░�
 
  
 
-## 🔧 Technologies & Tools / programming languages 
+## - Technologies & Tools / programming languages 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Nvim-informational?style=flat&logo=Vim&logoColor=white&color=6aa6f8)
