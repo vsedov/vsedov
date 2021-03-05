@@ -70,6 +70,7 @@ Git        🕓 15 mins        ▎░░░░░░░░░░░░░░░�
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Nvim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Git-git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
