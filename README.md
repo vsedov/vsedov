@@ -14,7 +14,7 @@ class WhoAmI:
     def __init__(self):
        self.name = 'Viv Sedov'
        self.role = 'Sudent'
-       self.hobbies=[
+       self.hobbies = [
          'Programming (allot)',
          'Watching Anime',
          'Reading Manga',
@@ -46,7 +46,8 @@ class WhoAmI:
 * Deep Learning - Detection Softwares 
 * Data Science
 * Computer Vision
-* 
+* The Future 
+
 ### Current Stats for the week (High chance its all python >.<)
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
