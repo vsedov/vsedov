@@ -72,11 +72,12 @@ Other    🕓 14 mins        ▏░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Git-git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Info-CPython-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Cython-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CPython-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-matlab-informational?style=flat&logo=MATLAB&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
