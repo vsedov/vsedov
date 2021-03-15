@@ -61,9 +61,12 @@ VimL       🕓 24 mins        ▎░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+<table><tr>
+<td> <img src="https://wakatime.com/share/@vsedov/05876f3e-7105-48ef-a04c-cd86267a46da.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="https://wakatime.com/share/@vsedov/14e0fe62-91c0-4ae6-8989-c0c571ba937b.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 
 
- 
 
 ## - Technologies & Tools / programming languages 
 
