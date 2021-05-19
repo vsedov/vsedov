@@ -14,7 +14,7 @@ class WhoAmI:
     def __init__(self):
        self.name = 'Viv Sedov'
        self.email = 'viv.sv@hotmail.com'
-       self.role = 'Sudent'
+       self.role = 'Student'
        self.hobbies = [
          'Programming (allot)',
          'Watching Anime',
