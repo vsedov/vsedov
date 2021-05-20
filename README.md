@@ -26,7 +26,7 @@ class WhoAmI:
     def __location():
        return London()
 
-    def ambitions():
+    def _ambitions():
        work_in_japan()
        travel_world()
        research_in_ai()
