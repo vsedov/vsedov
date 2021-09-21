@@ -12,7 +12,7 @@ class WhoAmI:
 
 
     def __init__(self):
-       self.name = 'Viv Sedov'
+       self.name = 'Vivian Sedov'
        self.email = 'viv.sv@hotmail.com'
        self.role = 'Student'
        self.hobbies = [
