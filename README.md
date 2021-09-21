@@ -17,7 +17,7 @@ class WhoAmI:
        self.role = 'Student'
        self.hobbies = [
          'Programming (allot)',
-	 'Chess',
+	 	'Chess',
          'Learning Japanese',
          'Being up all Night figuring out how to FIX that ONE BUG...'
          ]
