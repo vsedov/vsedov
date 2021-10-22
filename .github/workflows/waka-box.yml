@@ -41,6 +41,6 @@ jobs:
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull && git push
+          git pull && git push --ff-only
           
           
