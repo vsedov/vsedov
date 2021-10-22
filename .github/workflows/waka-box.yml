@@ -40,8 +40,6 @@ jobs:
           ./waka
           git config pull.rebase false
           git config pull.rebase true
-          git config pull.ff only
-          
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
