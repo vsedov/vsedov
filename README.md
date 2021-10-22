@@ -60,12 +60,15 @@ Java     🕓 8 mins        ▎░░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+
+
 <table><tr>
-<td> <img src="https://wakatime.com/share/@vsedov/05876f3e-7105-48ef-a04c-cd86267a46da.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="https://wakatime.com/share/@vsedov/14e0fe62-91c0-4ae6-8989-c0c571ba937b.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vsedov&theme=dracula" alt="Drawing" style="width: 350px;"/> </td>
+	
+<td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vsedov&theme=dracula" alt="Drawing" style="width: 350px;"/> </td>
 </tr></table>
 
-
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsedov&theme=dracula) 
 
 ## - Technologies & Tools / programming languages 
 
