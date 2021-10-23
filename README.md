@@ -63,12 +63,10 @@ Java     🕓 8 mins        ▎░░░░░░░░░░░░░░░░�
 
 
 <table><tr>
-<td> <img src="https://wakatime.com/share/@vsedov/96d6684c-b288-44fa-9ea0-98dd91296a37.svg" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="https://wakatime.com/share/@vsedov/96d6684c-b288-44fa-9ea0-98dd91296a37.svg"  style="width: 500px;"/> </td>
 	
-<td> <img src="https://wakatime.com"><img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" style="width: 500px;"/> </td>
 </tr></table>
-
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vsedov&theme=dracula) 
 
 ## - Technologies & Tools / programming languages 
 
