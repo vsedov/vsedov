@@ -68,6 +68,7 @@ Lua      🕓 12 mins        ▎░░░░░░░░░░░░░░░░
 <td> <img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" style="width: 500px;"/> </td>
 </tr></table>
 
+
 ## - Technologies & Tools / programming languages 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -86,4 +87,5 @@ Lua      🕓 12 mins        ▎░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
+![Profile views](https://komarev.com/ghpvc/?username=vsedov)
 
