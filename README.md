@@ -88,4 +88,5 @@ Lua      🕓 9 mins         ▏░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
 ![Profile views](https://komarev.com/ghpvc/?username=vsedov)
+[![wakatime](https://wakatime.com/badge/user/5c151a33-08c1-42ab-aeec-49778769b86b.svg)](https://wakatime.com/@5c151a33-08c1-42ab-aeec-49778769b86b)
 
