@@ -21,28 +21,16 @@ jobs:
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: LONG
     steps:
-      - name: Set up Go 1.x
-        uses: actions/setup-go@v2
-        with:
-          go-version: ^1.14
-        id: go
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
-      - name: Clone and run waka-box
+      - uses: actions/checkout@master
+      - name: Install
+        run: npm ci
+      - name: Update gist
+        run: node ./index.js > "README.md" --unhandled-rejections=strict
+      - name: Commit and push if changed
         run: |-
-          git clone https://github.com/YouEclipse/waka-box-go.git 
-          cd waka-box-go && go build -o waka ./cmd/box/main.go
-          mv ./waka ../ && cd .. && rm -rf waka-box-go/
-
-      - name: Commit and push
-        run: |-
-          ./waka
-          git config pull.rebase false
-          git config pull.rebase true
-          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
           git diff
-          git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull && git push --force
-          
-          
+          git config --global user.email "bob@users.noreply.github.com"
+          git config --global user.name "vsedov"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
