@@ -51,14 +51,6 @@ class WhoAmI:
 ### - Current Stats for the week (High chance its all python >.<)
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
-```text
-Python    🕓 5 hrs 21 mins █████▌░░░░░░░░░░░░░░░ 26.3%
-norg      🕓 4 hrs 20 mins ████▍░░░░░░░░░░░░░░░░ 21.3%
-Java      🕓 2 hrs 32 mins ██▌░░░░░░░░░░░░░░░░░░ 12.4%
-SQL       🕓 2 hrs 9 mins  ██▏░░░░░░░░░░░░░░░░░░ 10.6%
-Lua       🕓 2 hrs 2 mins  ██░░░░░░░░░░░░░░░░░░░ 10.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 
