@@ -20,17 +20,16 @@ jobs:
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: LONG
+
     steps:
-      - uses: actions/checkout@master
-      - name: Install
-        run: npm ci
-      - name: Update gist
-        run: node ./index.js > "README.md" --unhandled-rejections=strict
-      - name: Commit and push if changed
-        run: |-
-          git diff
-          git config --global user.email "bob@users.noreply.github.com"
-          git config --global user.name "vsedov"
-          git add -A
-          git commit -m "Updated content" || exit 0
-          git push
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.14
+        id: go
+
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v2
+
+      - name: Update-gist
+        run: go run ./cmd/box/main.go
