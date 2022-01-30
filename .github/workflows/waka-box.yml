@@ -7,7 +7,6 @@ on:
     branches: [master]
   schedule:
     - cron: "5 0 * * *"
-
 jobs:
   build:
     name: Update-waka-stats
@@ -40,6 +39,7 @@ jobs:
         run: |-
           ./waka
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git config pull.ff only
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull && git push
