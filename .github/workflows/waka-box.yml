@@ -38,8 +38,9 @@ jobs:
       - name: Commit and push
         run: |-
           ./waka
+          git config pull.ff true
+          git config --global pull.ff only
           git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
-          git config pull.ff only
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull origin main && git push --force
+          git pull --ff-only && git push --force
