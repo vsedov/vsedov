@@ -51,7 +51,11 @@ class WhoAmI:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Lua      🕓 22 hrs 55 mins █████████████▌░░░░░░░ 64.8%
+Python   🕓 10 hrs 30 mins ██████▏░░░░░░░░░░░░░░ 29.7%
+TOML     🕓 40 mins        ▍░░░░░░░░░░░░░░░░░░░░  1.9%
+Markdown 🕓 27 mins        ▎░░░░░░░░░░░░░░░░░░░░  1.3%
+Text     🕓 14 mins        ▏░░░░░░░░░░░░░░░░░░░░  0.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
