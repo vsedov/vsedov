@@ -6,9 +6,9 @@
 
 
 class WhoAmI:
-    def __new__(cls): 
-        print("Some  infomation about me :") 
-        return super(WhoAmI, cls).__new__(cls) 
+    def __new__(cls):
+        print("Some  infomation about me :")
+        return super(WhoAmI, cls).__new__(cls)
 
 
     def __init__(self):
@@ -29,41 +29,33 @@ class WhoAmI:
        work_in_japan()
        travel_world()
        research_in_ai()
-       # Allot more here >.< 
- 
-	
+       # Allot more here >.<
+
+
  ```
- 
- 
- 
-#### - I like Quotes : 
+
+
+
+#### - I like Quotes :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-## - Stuff That I love 
+## - Stuff That I love
 * Python - Python Enthusiast
 * Machine Learning
-* Deep Learning - Detection Softwares 
+* Deep Learning - Detection Softwares
 * Data Science
 * Computer Vision
-* The Future 
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/b7ae11ae916cc3eb529c054e1afad6e2" target="_blank">📊 Weekly development breakdown</a>
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+* The Future
 
 <table><tr>
 <td> <img src="https://wakatime.com/share/@vsedov/96d6684c-b288-44fa-9ea0-98dd91296a37.svg"  style="width: 500px;"/> </td>
-	
+
 <td> <img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" style="width: 500px;"/> </td>
 </tr></table>
 
 
-## - Technologies & Tools / programming languages 
+## - Technologies & Tools / programming languages
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Nvim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8)
@@ -83,4 +75,3 @@ Still Gathering Statistics...
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
 ![Profile views](https://komarev.com/ghpvc/?username=vsedov)
 [![wakatime](https://wakatime.com/badge/user/5c151a33-08c1-42ab-aeec-49778769b86b.svg)](https://wakatime.com/@5c151a33-08c1-42ab-aeec-49778769b86b)
-
