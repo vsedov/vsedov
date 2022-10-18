@@ -35,7 +35,6 @@ class WhoAmI:
  ```
 
 
-
 #### - I like Quotes :
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -53,6 +52,9 @@ class WhoAmI:
 
 <td> <img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" style="width: 500px;"/> </td>
 </tr></table>
+
+## - My Amazing Trophoes !
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## - Technologies & Tools / programming languages
