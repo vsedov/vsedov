@@ -21,6 +21,7 @@ class WhoAmI:
          'Learning Japanese',
          'Being up all Night figuring out how to FIX that ONE BUG...'
          ]
+	 
 
     def __location():
        return London()
@@ -33,6 +34,14 @@ class WhoAmI:
 
 
  ```
+ <h3>What am I currently working on</h3>
+
+<ul>
+  <li><a href="https://github.com/vsedov/norg.py">norg-fmt</a>, Formatter for <a href="https://github.com/nvim-neorg/neorg">Neorg</a>.</li>
+  <li><a href="https://github.com/vsedov/NeorgBot">NeorgBot</a>, Discord  for Norg <a href="https://github.com/nvim-neorg/neorg">Server</a>.</li>
+  <li><a href="https://github.com/vsedov/mithrandir">norg-fmt</a>, Gandalf Inspired Discord bot</a>.</li>
+  <li><a href="https://github.com/vsedov/AnimeGans">AnimeGans</a>, Completed Research Project on GANs</a>.</li>
+</ul>
 
 
 #### - I like Quotes :
