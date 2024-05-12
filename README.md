@@ -56,11 +56,6 @@ class WhoAmI:
 * Computer Vision
 * The Future
 
-<table><tr>
-<td> <img src="https://wakatime.com/share/@vsedov/96d6684c-b288-44fa-9ea0-98dd91296a37.svg"  style="width: 500px;"/> </td>
-
-<td> <img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" style="width: 500px;"/> </td>
-</tr></table>
 
 Quick note 
 For my FYP : It will be Open Sourced by May 2023.
